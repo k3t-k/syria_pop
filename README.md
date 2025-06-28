@@ -13,7 +13,7 @@ Missing administrative boundaries data so I added them by joining to UN's admini
 Data is crowdsourced via volunteers contributing to the HOT's mapping.
 
 ## Assistance Coordination Unit (ACU) Data
-source: [HDX ACY Syria](https://data.humdata.org/dataset/hotosm_syr_populated_places)
+source: [HDX ACU Syria](https://data.humdata.org/dataset/hotosm_syr_populated_places)
 
 Just for northeast Syria from October 2024 which is limited but also shows a trend reflected in other aid agencies' work. Namely, that they did not cover areas in northeast Syria that were controlled by the Assad-led Syrian government at the time, contributing to a substantial gap in information for 8 subdistricts in northeast Syria.  
 
